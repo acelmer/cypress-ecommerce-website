@@ -1,5 +1,10 @@
 # <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" align="center" width="60" height="60"> Cypress - E-commerce Website E2E tests 
 
+<p align="center">
+<img src="e-commerce.gif"  width="100%" height="400">
+</p>
+
+
 ## Installation
 
 Clone the repository
